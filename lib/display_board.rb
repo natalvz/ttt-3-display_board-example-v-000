@@ -2,4 +2,5 @@
 def display_board
   cell = "   "
   separate = "|"
-  row = ""
+  row = "-----------"
+  
