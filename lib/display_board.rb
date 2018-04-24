@@ -3,4 +3,4 @@ def display_board
   cell = "   "
   separate = "|"
   row = "-----------"
-  
+  puts cell separate cell
