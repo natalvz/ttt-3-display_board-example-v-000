@@ -5,6 +5,7 @@ def display_board
   row = "-----------"
   puts "#{cell}#{separate}#{cell}#{separate}#{cell}"
   puts "#{row}"
-  puts "#{cell}#{separate}#{cell}#{separate}#{cell}
-  puts "#{cell}#{separate}#{cell}#{separate}#{cell}
+  puts "#{cell}#{separate}#{cell}#{separate}#{cell}"
+  puts "#{row}"
+  puts "#{cell}#{separate}#{cell}#{separate}#{cell}"
 end
