@@ -1,7 +1,4 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-def display_board
-  cell = "   "
-  separate = "|"
-  row = "-----------"
-  puts "#{cell} #{separate} #{cell}"
+def greeting
+  puts "Hello World"
 end
